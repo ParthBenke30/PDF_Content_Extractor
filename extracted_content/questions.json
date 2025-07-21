@@ -1,0 +1,164 @@
+[
+  {
+    "question": "1. Find the next figures in the figure pattern given below. [A] [B] [C] [D] Ans. [D] 2. Complete the number pattern. [A] [B]",
+    "images": "extracted_content\\images\\page_1_image_1.png",
+    "option_images": [
+      "extracted_content\\images\\page_1_image_2.png",
+      "extracted_content\\images\\page_1_image_3.png",
+      "extracted_content\\images\\page_1_image_4.png",
+      "extracted_content\\images\\page_1_image_5.png",
+      "extracted_content\\images\\page_1_image_6.png",
+      "extracted_content\\images\\page_1_image_7.png",
+      "extracted_content\\images\\page_1_image_8.png",
+      "extracted_content\\images\\page_1_image_9.png",
+      "extracted_content\\images\\page_1_image_10.png"
+    ]
+  },
+  {
+    "question": "3. In the questions given below, the series with one or more terms figures are missing marked with ‘?’. Choose the correct option to replace the ‘?’ mark(s). [A] 19 [B] 18 [C] 17 [D] 20 Ans [C] 4. Number of the groups of 9 paper clips ( ) shown here is [A] 2 [B] 3 [C] 9 [D] 27 Ans [D] 5. How many bananas are kept outside the basket? [A] 1 [B] 2 [C] 3 [D] 4",
+    "images": "extracted_content\\images\\page_2_image_1.png",
+    "option_images": [
+      "extracted_content\\images\\page_2_image_2.png",
+      "extracted_content\\images\\page_2_image_3.png",
+      "extracted_content\\images\\page_2_image_4.png",
+      "extracted_content\\images\\page_2_image_5.png",
+      "extracted_content\\images\\page_2_image_6.png",
+      "extracted_content\\images\\page_2_image_7.png"
+    ]
+  },
+  {
+    "question": "clock. At what time did the programme end? [A] 6: 00 [B] 5: 20 [C] 7: 00 [D] None of these Ans [B] 7. Suresh had 112 bookmarks. He gives some bookmarks to her pupils, he had 13 bookmarks left. How many bookmarks did he give away? [A] 110 [B] 125 [C] 99 [D] 130 Ans [C]",
+    "images": "extracted_content\\images\\page_3_image_1.png",
+    "option_images": [
+      "extracted_content\\images\\page_3_image_2.png"
+    ]
+  },
+  {
+    "question": "Which cat shows the number lying between 40 and 50 and also having 3 at ones place? [A] [B]",
+    "images": "extracted_content\\images\\page_4_image_1.png",
+    "option_images": [
+      "extracted_content\\images\\page_4_image_2.png",
+      "extracted_content\\images\\page_4_image_3.png",
+      "extracted_content\\images\\page_4_image_4.png",
+      "extracted_content\\images\\page_4_image_5.png"
+    ]
+  },
+  {
+    "question": "11. Which of the following is greatest? Ans [D] 12. Write ‘+’ or ‘–’ in each to complete the number sentence. [A] +, + [B] +, – [C] –, – [D] –, + Ans [B]",
+    "images": "extracted_content\\images\\page_5_image_1.png",
+    "option_images": [
+      "extracted_content\\images\\page_5_image_2.png",
+      "extracted_content\\images\\page_5_image_3.png",
+      "extracted_content\\images\\page_5_image_4.png",
+      "extracted_content\\images\\page_5_image_5.png"
+    ]
+  },
+  {
+    "question": "answer the questions 14 and 15. 14. The length of BD is 1 cm less than the total length of AB and AD. CD is __________ cm longer than BD. [A] 5 [B] 4 [C] 8 [D] 9 Ans [B]",
+    "images": "extracted_content\\images\\page_6_image_1.png",
+    "option_images": [
+      "extracted_content\\images\\page_6_image_2.png",
+      "extracted_content\\images\\page_6_image_3.png"
+    ]
+  },
+  {
+    "question": "15. The length of CD is twice that of BC. What is the length of all the sides of triangle BCD? [A] 15 cm [B] 31 cm [C] 42 cm [D] 38 cm Ans [A] A B C D 4 cm 3 cm 10 cm",
+    "images": "extracted_content\\images\\page_6_image_1.png",
+    "option_images": [
+      "extracted_content\\images\\page_6_image_2.png",
+      "extracted_content\\images\\page_6_image_3.png"
+    ]
+  },
+  {
+    "question": "16. Which of the following clocks shows 30 minutes after 4 O’clock? [A] [B] [C] [D] Ans [B] 17. Sent gold High School has 453 students. It has 23 more students than kiddy gold High School. How many students does kiddy gold High School have? [A] 400 [B] 430 [C] 403 [D] 340 Ans [B] 12 6 5 4 3 2 1 11 10 9 8 7 12 6 5 4 3 2 1 11 10 9 8 7 12 6 5 4 3 2 1 11 10 9 8 7 12 6 5 4 3 2 1 11 10 9 8 7",
+    "images": "extracted_content\\images\\page_7_image_1.png",
+    "option_images": []
+  },
+  {
+    "question": "19. Which tree has apples more than 6 but less than 9? [A] [B] [C] [D] Ans [B]",
+    "images": "extracted_content\\images\\page_8_image_1.png",
+    "option_images": [
+      "extracted_content\\images\\page_8_image_2.png",
+      "extracted_content\\images\\page_8_image_3.png",
+      "extracted_content\\images\\page_8_image_4.png",
+      "extracted_content\\images\\page_8_image_5.png",
+      "extracted_content\\images\\page_8_image_6.png",
+      "extracted_content\\images\\page_8_image_7.png",
+      "extracted_content\\images\\page_8_image_8.png",
+      "extracted_content\\images\\page_8_image_9.png"
+    ]
+  },
+  {
+    "question": "20. Which abacus shows 15 – 13 = 13? [A] [B] [C] [D] Ans [C]",
+    "images": "extracted_content\\images\\page_8_image_1.png",
+    "option_images": [
+      "extracted_content\\images\\page_8_image_2.png",
+      "extracted_content\\images\\page_8_image_3.png",
+      "extracted_content\\images\\page_8_image_4.png",
+      "extracted_content\\images\\page_8_image_5.png",
+      "extracted_content\\images\\page_8_image_6.png",
+      "extracted_content\\images\\page_8_image_7.png",
+      "extracted_content\\images\\page_8_image_8.png",
+      "extracted_content\\images\\page_8_image_9.png"
+    ]
+  },
+  {
+    "question": "21. Which of the following is smallest? Ans [C] 22. 6 hundreds 3 tens 2 ones – 3 hundreds 2 tens 6 ones = ____________. [A] 306 [B] 360 [C] 603 [D] 305 Ans [A] 23.",
+    "images": "extracted_content\\images\\page_9_image_1.png",
+    "option_images": [
+      "extracted_content\\images\\page_9_image_2.png",
+      "extracted_content\\images\\page_9_image_3.png",
+      "extracted_content\\images\\page_9_image_4.png",
+      "extracted_content\\images\\page_9_image_5.png",
+      "extracted_content\\images\\page_9_image_6.png"
+    ]
+  },
+  {
+    "question": "What does stand for ? [A] 7 [B] 5 [C] 3 [D] 4 Ans [D] 24. A number bond is shown below.",
+    "images": "extracted_content\\images\\page_9_image_1.png",
+    "option_images": [
+      "extracted_content\\images\\page_9_image_2.png",
+      "extracted_content\\images\\page_9_image_3.png",
+      "extracted_content\\images\\page_9_image_4.png",
+      "extracted_content\\images\\page_9_image_5.png",
+      "extracted_content\\images\\page_9_image_6.png"
+    ]
+  },
+  {
+    "question": "What is the value of M × N? [A] 35 [B] 43 [C] 52 [D] 25",
+    "images": "extracted_content\\images\\page_9_image_1.png",
+    "option_images": [
+      "extracted_content\\images\\page_9_image_2.png",
+      "extracted_content\\images\\page_9_image_3.png",
+      "extracted_content\\images\\page_9_image_4.png",
+      "extracted_content\\images\\page_9_image_5.png",
+      "extracted_content\\images\\page_9_image_6.png"
+    ]
+  },
+  {
+    "question": "Find the total length of both the pencils. [A] 7 units [B] 6 units [C] 5 units [D] 9 units Ans [D] 26. There were 298 hens and cows on a farm. There were 153 hens. How many cows were there? [A] 138 [B] 140 [C] 145 [D] 144 Ans [C] 27. Write the correct time for the clock shown below. [A] 5 : 15 [B] 5 : 40 [C] 6 : 20 [D] 3 : 20 Ans [A]",
+    "images": "extracted_content\\images\\page_10_image_1.png",
+    "option_images": [
+      "extracted_content\\images\\page_10_image_2.png",
+      "extracted_content\\images\\page_10_image_3.png",
+      "extracted_content\\images\\page_10_image_4.png"
+    ]
+  },
+  {
+    "question": "Which statement is true? [A] Flowers are more than balloons. [B] Flowers are equal to balloons. [C] Flowers are less than balloons [D] Balloons are 2 more than flowers. Ans [C] 29. A bag of rice weighs 3 kg. How much do 6 bags of rice weight? [A] 18 kg [B] 24 kg [C] 15 kg [D] 17 kg Ans [A] 30. If only all Saturdays and Sundays are holidays, then in the month of December 2014 how many holidays will we get? [A] 6 [B] 8 [C] 10 [D] 7",
+    "images": "extracted_content\\images\\page_11_image_1.png",
+    "option_images": [
+      "extracted_content\\images\\page_11_image_2.png",
+      "extracted_content\\images\\page_11_image_3.png",
+      "extracted_content\\images\\page_11_image_4.png"
+    ]
+  },
+  {
+    "question": "34. Which of the following is the CORRECT way of writing 8 less than 14? [A] 14 – 8 = 6 [B] 14 + 8 = 6 [C] 14 – 6 = 8 [D] 14 + 6 = 8 Ans [A] 35. Tonu gave Rs 50 to buy this ball. How much money will he get back? [A]  Rs 15 [B]Rs  25 [C]   Rs 20 [D]   Rs 17",
+    "images": "extracted_content\\images\\page_13_image_1.png",
+    "option_images": [
+      "extracted_content\\images\\page_13_image_2.png",
+      "extracted_content\\images\\page_13_image_3.png"
+    ]
+  }
+]

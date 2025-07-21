@@ -1,0 +1,136 @@
+2025-07-21 23:21:16,247 - INFO - Starting PDF processing: IMO class 1 Maths Olympiad Sample Paper 1 for the year 2024-25.pdf
+2025-07-21 23:21:16,247 - INFO - Extracting content from IMO class 1 Maths Olympiad Sample Paper 1 for the year 2024-25.pdf using PyMuPDF
+2025-07-21 23:21:16,930 - INFO - Saved image: page_1_image_1.png
+2025-07-21 23:21:16,935 - INFO - Saved image: page_1_image_2.png
+2025-07-21 23:21:16,940 - INFO - Saved image: page_1_image_3.png
+2025-07-21 23:21:16,943 - INFO - Saved image: page_1_image_4.png
+2025-07-21 23:21:16,948 - INFO - Saved image: page_1_image_5.png
+2025-07-21 23:21:16,952 - INFO - Saved image: page_1_image_6.png
+2025-07-21 23:21:16,959 - INFO - Saved image: page_1_image_7.png
+2025-07-21 23:21:16,964 - INFO - Saved image: page_1_image_8.png
+2025-07-21 23:21:16,967 - INFO - Saved image: page_1_image_9.png
+2025-07-21 23:21:16,970 - INFO - Saved image: page_1_image_10.png
+2025-07-21 23:21:17,034 - INFO - Saved image: page_2_image_1.png
+2025-07-21 23:21:17,036 - INFO - Saved image: page_2_image_2.png
+2025-07-21 23:21:17,039 - INFO - Saved image: page_2_image_3.png
+2025-07-21 23:21:17,043 - INFO - Saved image: page_2_image_4.png
+2025-07-21 23:21:17,045 - INFO - Saved image: page_2_image_5.png
+2025-07-21 23:21:17,067 - INFO - Saved image: page_2_image_6.png
+2025-07-21 23:21:17,072 - INFO - Saved image: page_2_image_7.png
+2025-07-21 23:21:17,135 - INFO - Saved image: page_3_image_1.png
+2025-07-21 23:21:17,137 - INFO - Saved image: page_3_image_2.png
+2025-07-21 23:21:17,196 - INFO - Saved image: page_4_image_1.png
+2025-07-21 23:21:17,204 - INFO - Saved image: page_4_image_2.png
+2025-07-21 23:21:17,215 - INFO - Saved image: page_4_image_3.png
+2025-07-21 23:21:17,217 - INFO - Saved image: page_4_image_4.png
+2025-07-21 23:21:17,220 - INFO - Saved image: page_4_image_5.png
+2025-07-21 23:21:17,283 - INFO - Saved image: page_5_image_1.png
+2025-07-21 23:21:17,285 - INFO - Saved image: page_5_image_2.png
+2025-07-21 23:21:17,287 - INFO - Saved image: page_5_image_3.png
+2025-07-21 23:21:17,290 - INFO - Saved image: page_5_image_4.png
+2025-07-21 23:21:17,292 - INFO - Saved image: page_5_image_5.png
+2025-07-21 23:21:17,354 - INFO - Saved image: page_6_image_1.png
+2025-07-21 23:21:17,357 - INFO - Saved image: page_6_image_2.png
+2025-07-21 23:21:17,360 - INFO - Saved image: page_6_image_3.png
+2025-07-21 23:21:17,431 - INFO - Saved image: page_7_image_1.png
+2025-07-21 23:21:17,508 - INFO - Saved image: page_8_image_1.png
+2025-07-21 23:21:17,514 - INFO - Saved image: page_8_image_2.png
+2025-07-21 23:21:17,522 - INFO - Saved image: page_8_image_3.png
+2025-07-21 23:21:17,529 - INFO - Saved image: page_8_image_4.png
+2025-07-21 23:21:17,535 - INFO - Saved image: page_8_image_5.png
+2025-07-21 23:21:17,539 - INFO - Saved image: page_8_image_6.png
+2025-07-21 23:21:17,543 - INFO - Saved image: page_8_image_7.png
+2025-07-21 23:21:17,546 - INFO - Saved image: page_8_image_8.png
+2025-07-21 23:21:17,548 - INFO - Saved image: page_8_image_9.png
+2025-07-21 23:21:17,607 - INFO - Saved image: page_9_image_1.png
+2025-07-21 23:21:17,610 - INFO - Saved image: page_9_image_2.png
+2025-07-21 23:21:17,612 - INFO - Saved image: page_9_image_3.png
+2025-07-21 23:21:17,615 - INFO - Saved image: page_9_image_4.png
+2025-07-21 23:21:17,617 - INFO - Saved image: page_9_image_5.png
+2025-07-21 23:21:17,619 - INFO - Saved image: page_9_image_6.png
+2025-07-21 23:21:17,677 - INFO - Saved image: page_10_image_1.png
+2025-07-21 23:21:17,680 - INFO - Saved image: page_10_image_2.png
+2025-07-21 23:21:17,682 - INFO - Saved image: page_10_image_3.png
+2025-07-21 23:21:17,684 - INFO - Saved image: page_10_image_4.png
+2025-07-21 23:21:17,747 - INFO - Saved image: page_11_image_1.png
+2025-07-21 23:21:17,752 - INFO - Saved image: page_11_image_2.png
+2025-07-21 23:21:17,755 - INFO - Saved image: page_11_image_3.png
+2025-07-21 23:21:17,773 - INFO - Saved image: page_11_image_4.png
+2025-07-21 23:21:17,844 - INFO - Saved image: page_12_image_1.png
+2025-07-21 23:21:17,850 - INFO - Saved image: page_12_image_2.png
+2025-07-21 23:21:17,916 - INFO - Saved image: page_13_image_1.png
+2025-07-21 23:21:17,919 - INFO - Saved image: page_13_image_2.png
+2025-07-21 23:21:17,923 - INFO - Saved image: page_13_image_3.png
+2025-07-21 23:21:17,990 - INFO - Saved image: page_14_image_1.png
+2025-07-21 23:21:17,992 - INFO - Successfully extracted content from 14 pages
+2025-07-21 23:21:17,993 - INFO - Parsed 16 questions from the PDF
+2025-07-21 23:21:17,995 - INFO - Saved JSON output to: extracted_content\questions.json
+2025-07-21 23:21:17,997 - INFO - Saved JSON output to: extracted_content\raw_pages.json
+2025-07-21 23:22:04,278 - INFO - Starting PDF processing: IMO class 1 Maths Olympiad Sample Paper 1 for the year 2024-25.pdf
+2025-07-21 23:22:04,279 - INFO - Extracting content from IMO class 1 Maths Olympiad Sample Paper 1 for the year 2024-25.pdf using PyMuPDF
+2025-07-21 23:22:04,383 - INFO - Saved image: page_1_image_1.png
+2025-07-21 23:22:04,389 - INFO - Saved image: page_1_image_2.png
+2025-07-21 23:22:04,396 - INFO - Saved image: page_1_image_3.png
+2025-07-21 23:22:04,402 - INFO - Saved image: page_1_image_4.png
+2025-07-21 23:22:04,408 - INFO - Saved image: page_1_image_5.png
+2025-07-21 23:22:04,414 - INFO - Saved image: page_1_image_6.png
+2025-07-21 23:22:04,420 - INFO - Saved image: page_1_image_7.png
+2025-07-21 23:22:04,427 - INFO - Saved image: page_1_image_8.png
+2025-07-21 23:22:04,432 - INFO - Saved image: page_1_image_9.png
+2025-07-21 23:22:04,437 - INFO - Saved image: page_1_image_10.png
+2025-07-21 23:22:04,508 - INFO - Saved image: page_2_image_1.png
+2025-07-21 23:22:04,513 - INFO - Saved image: page_2_image_2.png
+2025-07-21 23:22:04,518 - INFO - Saved image: page_2_image_3.png
+2025-07-21 23:22:04,525 - INFO - Saved image: page_2_image_4.png
+2025-07-21 23:22:04,530 - INFO - Saved image: page_2_image_5.png
+2025-07-21 23:22:04,555 - INFO - Saved image: page_2_image_6.png
+2025-07-21 23:22:04,563 - INFO - Saved image: page_2_image_7.png
+2025-07-21 23:22:04,634 - INFO - Saved image: page_3_image_1.png
+2025-07-21 23:22:04,638 - INFO - Saved image: page_3_image_2.png
+2025-07-21 23:22:04,701 - INFO - Saved image: page_4_image_1.png
+2025-07-21 23:22:04,712 - INFO - Saved image: page_4_image_2.png
+2025-07-21 23:22:04,723 - INFO - Saved image: page_4_image_3.png
+2025-07-21 23:22:04,728 - INFO - Saved image: page_4_image_4.png
+2025-07-21 23:22:04,733 - INFO - Saved image: page_4_image_5.png
+2025-07-21 23:22:04,796 - INFO - Saved image: page_5_image_1.png
+2025-07-21 23:22:04,801 - INFO - Saved image: page_5_image_2.png
+2025-07-21 23:22:04,805 - INFO - Saved image: page_5_image_3.png
+2025-07-21 23:22:04,810 - INFO - Saved image: page_5_image_4.png
+2025-07-21 23:22:04,815 - INFO - Saved image: page_5_image_5.png
+2025-07-21 23:22:04,883 - INFO - Saved image: page_6_image_1.png
+2025-07-21 23:22:04,888 - INFO - Saved image: page_6_image_2.png
+2025-07-21 23:22:04,893 - INFO - Saved image: page_6_image_3.png
+2025-07-21 23:22:04,959 - INFO - Saved image: page_7_image_1.png
+2025-07-21 23:22:05,025 - INFO - Saved image: page_8_image_1.png
+2025-07-21 23:22:05,034 - INFO - Saved image: page_8_image_2.png
+2025-07-21 23:22:05,043 - INFO - Saved image: page_8_image_3.png
+2025-07-21 23:22:05,053 - INFO - Saved image: page_8_image_4.png
+2025-07-21 23:22:05,062 - INFO - Saved image: page_8_image_5.png
+2025-07-21 23:22:05,071 - INFO - Saved image: page_8_image_6.png
+2025-07-21 23:22:05,079 - INFO - Saved image: page_8_image_7.png
+2025-07-21 23:22:05,085 - INFO - Saved image: page_8_image_8.png
+2025-07-21 23:22:05,090 - INFO - Saved image: page_8_image_9.png
+2025-07-21 23:22:05,152 - INFO - Saved image: page_9_image_1.png
+2025-07-21 23:22:05,157 - INFO - Saved image: page_9_image_2.png
+2025-07-21 23:22:05,160 - INFO - Saved image: page_9_image_3.png
+2025-07-21 23:22:05,166 - INFO - Saved image: page_9_image_4.png
+2025-07-21 23:22:05,170 - INFO - Saved image: page_9_image_5.png
+2025-07-21 23:22:05,174 - INFO - Saved image: page_9_image_6.png
+2025-07-21 23:22:05,236 - INFO - Saved image: page_10_image_1.png
+2025-07-21 23:22:05,242 - INFO - Saved image: page_10_image_2.png
+2025-07-21 23:22:05,247 - INFO - Saved image: page_10_image_3.png
+2025-07-21 23:22:05,253 - INFO - Saved image: page_10_image_4.png
+2025-07-21 23:22:05,318 - INFO - Saved image: page_11_image_1.png
+2025-07-21 23:22:05,325 - INFO - Saved image: page_11_image_2.png
+2025-07-21 23:22:05,330 - INFO - Saved image: page_11_image_3.png
+2025-07-21 23:22:05,348 - INFO - Saved image: page_11_image_4.png
+2025-07-21 23:22:05,416 - INFO - Saved image: page_12_image_1.png
+2025-07-21 23:22:05,424 - INFO - Saved image: page_12_image_2.png
+2025-07-21 23:22:05,488 - INFO - Saved image: page_13_image_1.png
+2025-07-21 23:22:05,493 - INFO - Saved image: page_13_image_2.png
+2025-07-21 23:22:05,500 - INFO - Saved image: page_13_image_3.png
+2025-07-21 23:22:05,571 - INFO - Saved image: page_14_image_1.png
+2025-07-21 23:22:05,572 - INFO - Successfully extracted content from 14 pages
+2025-07-21 23:22:05,573 - INFO - Parsed 16 questions from the PDF
+2025-07-21 23:22:05,575 - INFO - Saved JSON output to: extracted_content\questions.json
+2025-07-21 23:22:05,577 - INFO - Saved JSON output to: extracted_content\raw_pages.json
