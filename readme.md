@@ -35,6 +35,8 @@ pdf-content-extractor/
 
 ### 1. Clone or Download the Project
 ```bash
+# Download the files to your local machine
+
 
 ```
 
